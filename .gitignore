@@ -1,0 +1,4 @@
+data/
+*.bin
+text_gcn/
+__pycache__/
